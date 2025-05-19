@@ -1,0 +1,1222 @@
+ocr_results:
+- bbox:
+  - - 199
+    - 216
+  - - 432
+    - 217
+  - - 432
+    - 235
+  - - 199
+    - 233
+  confidence: 0.6133
+  text: HannenoBanne o.) cocTeyHuKa
+- bbox:
+  - - 864
+    - 217
+  - - 1253
+    - 221
+  - - 1253
+    - 243
+  - - 864
+    - 239
+  confidence: 0.9173
+  text: HACHIOPT TPAHCHIOPTHOTO CPEACTBA
+- bbox:
+  - - 376
+    - 231
+  - - 419
+    - 231
+  - - 419
+    - 244
+  - - 376
+    - 244
+  confidence: 0.6734
+  text: Me
+- bbox:
+  - - 239
+    - 245
+  - - 324
+    - 248
+  - - 324
+    - 267
+  - - 238
+    - 264
+  confidence: 0.8927
+  text: '454004'
+- bbox:
+  - - 201
+    - 256
+  - - 248
+    - 256
+  - - 248
+    - 269
+  - - 201
+    - 269
+  confidence: 0.8646
+  text: AApec
+- bbox:
+  - - 419
+    - 283
+  - - 560
+    - 283
+  - - 560
+    - 300
+  - - 419
+    - 300
+  confidence: 0.6291
+  text: Q.bd.0008
+- bbox:
+  - - 203
+    - 292
+  - - 360
+    - 292
+  - - 360
+    - 305
+  - - 203
+    - 305
+  confidence: 0.7917
+  text: ara npoxan nepeAam
+- bbox:
+  - - 201
+    - 305
+  - - 407
+    - 308
+  - - 407
+    - 325
+  - - 201
+    - 323
+  confidence: 0.6601
+  text: Akyme ia pano coocrBeHHoC
+- bbox:
+  - - 209
+    - 323
+  - - 259
+    - 323
+  - - 259
+    - 336
+  - - 209
+    - 336
+  confidence: 0.6868
+  text: OC
+- bbox:
+  - - 23
+    - 331
+  - - 149
+    - 332
+  - - 149
+    - 351
+  - - 23
+    - 349
+  confidence: 0.689
+  text: Ocoone OTmeTKn
+- bbox:
+  - - 307
+    - 324
+  - - 337
+    - 324
+  - - 337
+    - 335
+  - - 307
+    - 335
+  confidence: 0.6467
+  text: M
+- bbox:
+  - - 199
+    - 348
+  - - 286
+    - 351
+  - - 285
+    - 364
+  - - 198
+    - 361
+  confidence: 0.798
+  text: Hoanuco-npen
+- bbox:
+  - - 977
+    - 340
+  - - 1005
+    - 340
+  - - 1005
+    - 359
+  - - 977
+    - 359
+  confidence: 0.9959
+  text: '37'
+- bbox:
+  - - 1021
+    - 341
+  - - 1049
+    - 341
+  - - 1049
+    - 360
+  - - 1021
+    - 360
+  confidence: 0.9899
+  text: KX
+- bbox:
+  - - 1071
+    - 341
+  - - 1143
+    - 341
+  - - 1143
+    - 360
+  - - 1071
+    - 360
+  confidence: 0.9965
+  text: '667059'
+- bbox:
+  - - 416
+    - 351
+  - - 545
+    - 351
+  - - 545
+    - 364
+  - - 416
+    - 364
+  confidence: 0.7788
+  text: Hoonuco nacmosueeo
+- bbox:
+  - - 198
+    - 361
+  - - 291
+    - 364
+  - - 290
+    - 379
+  - - 197
+    - 376
+  confidence: 0.7721
+  text: co6cmsennuka
+- bbox:
+  - - 424
+    - 363
+  - - 503
+    - 364
+  - - 503
+    - 377
+  - - 424
+    - 376
+  confidence: 0.8108
+  text: obcmsennuca
+- bbox:
+  - - 664
+    - 381
+  - - 789
+    - 381
+  - - 789
+    - 399
+  - - 664
+    - 399
+  confidence: 0.7147
+  text: Ocoobie OTMeTKH
+- bbox:
+  - - 845
+    - 380
+  - - 1071
+    - 380
+  - - 1071
+    - 397
+  - - 845
+    - 397
+  confidence: 0.7064
+  text: 1.NHKao Hoep VIN
+- bbox:
+  - - 863
+    - 392
+  - - 1021
+    - 392
+  - - 1021
+    - 409
+  - - 863
+    - 409
+  confidence: 0.9888
+  text: XVN45717K41101031
+- bbox:
+  - - 25
+    - 404
+  - - 163
+    - 404
+  - - 163
+    - 421
+  - - 25
+    - 421
+  confidence: 0.6396
+  text: OMOIOHATE
+- bbox:
+  - - 555
+    - 407
+  - - 605
+    - 407
+  - - 605
+    - 425
+  - - 555
+    - 425
+  confidence: 0.9893
+  text: '77059'
+- bbox:
+  - - 680
+    - 409
+  - - 723
+    - 409
+  - - 723
+    - 428
+  - - 680
+    - 428
+  confidence: 0.6373
+  text: mrC
+- bbox:
+  - - 295
+    - 419
+  - - 392
+    - 419
+  - - 392
+    - 432
+  - - 295
+    - 432
+  confidence: 0.7758
+  text: o perncrpauun
+- bbox:
+  - - 840
+    - 415
+  - - 977
+    - 413
+  - - 977
+    - 432
+  - - 840
+    - 433
+  confidence: 0.811
+  text: 2.MapkaMoAeab TC
+- bbox:
+  - - 997
+    - 411
+  - - 1103
+    - 411
+  - - 1103
+    - 428
+  - - 997
+    - 428
+  confidence: 0.9789
+  text: KC-45717K-1
+- bbox:
+  - - 24
+    - 421
+  - - 164
+    - 423
+  - - 164
+    - 437
+  - - 24
+    - 436
+  confidence: 0.669
+  text: SAC YTFABIE PAA
+- bbox:
+  - - 681
+    - 428
+  - - 784
+    - 428
+  - - 784
+    - 447
+  - - 681
+    - 447
+  confidence: 0.9372
+  text: 16AA 446256
+- bbox:
+  - - 23
+    - 439
+  - - 179
+    - 439
+  - - 179
+    - 456
+  - - 23
+    - 456
+  confidence: 0.6975
+  text: HAL014.02.0
+- bbox:
+  - - 328
+    - 439
+  - - 361
+    - 439
+  - - 361
+    - 448
+  - - 328
+    - 448
+  confidence: 0.8026
+  text: cepus
+- bbox:
+  - - 141
+    - 460
+  - - 167
+    - 460
+  - - 167
+    - 469
+  - - 141
+    - 469
+  confidence: 0.6104
+  text: HOA
+- bbox:
+  - - 199
+    - 452
+  - - 333
+    - 452
+  - - 333
+    - 469
+  - - 199
+    - 469
+  confidence: 0.74
+  text: Perncrpaymonni 3Hak
+- bbox:
+  - - 841
+    - 452
+  - - 1013
+    - 452
+  - - 1013
+    - 469
+  - - 841
+    - 469
+  confidence: 0.748
+  text: 3.HanenoBae Tn TC
+- bbox:
+  - - 1023
+    - 451
+  - - 1195
+    - 451
+  - - 1195
+    - 464
+  - - 1023
+    - 464
+  confidence: 0.6526
+  text: KEAH ARTCMOOHbHn
+- bbox:
+  - - 844
+    - 472
+  - - 1081
+    - 472
+  - - 1081
+    - 485
+  - - 844
+    - 485
+  confidence: 0.8256
+  text: 4.Kareropus TC ABCDnpnyen
+- bbox:
+  - - 1111
+    - 468
+  - - 1137
+    - 468
+  - - 1137
+    - 479
+  - - 1111
+    - 479
+  confidence: 0.5647
+  text: '"C"'
+- bbox:
+  - - 211
+    - 489
+  - - 269
+    - 489
+  - - 269
+    - 504
+  - - 211
+    - 504
+  confidence: 0.7083
+  text: Aano I
+- bbox:
+  - - 841
+    - 487
+  - - 991
+    - 488
+  - - 991
+    - 505
+  - - 841
+    - 504
+  confidence: 0.6715
+  text: 5.IOA HrOTOBACHg TC
+- bbox:
+  - - 1019
+    - 485
+  - - 1057
+    - 485
+  - - 1057
+    - 500
+  - - 1019
+    - 500
+  confidence: 0.9984
+  text: '2004'
+- bbox:
+  - - 840
+    - 505
+  - - 1165
+    - 501
+  - - 1165
+    - 520
+  - - 840
+    - 524
+  confidence: 0.9022
+  text: 6.MoebNABurare740.11-240-2279509
+- bbox:
+  - - 52
+    - 525
+  - - 107
+    - 525
+  - - 107
+    - 540
+  - - 52
+    - 540
+  confidence: 0.8212
+  text: CPCH
+- bbox:
+  - - 415
+    - 522
+  - - 468
+    - 526
+  - - 467
+    - 542
+  - - 414
+    - 538
+  confidence: 0.7626
+  text: Ilodnuco
+- bbox:
+  - - 841
+    - 524
+  - - 1129
+    - 517
+  - - 1129
+    - 536
+  - - 842
+    - 543
+  confidence: 0.9496
+  text: 7.laccnpaaNXTC53215042234300
+- bbox:
+  - - 59
+    - 543
+  - - 109
+    - 543
+  - - 109
+    - 556
+  - - 59
+    - 556
+  confidence: 0.9155
+  text: OC74429
+- bbox:
+  - - 841
+    - 541
+  - - 1105
+    - 540
+  - - 1105
+    - 559
+  - - 841
+    - 560
+  confidence: 0.8555
+  text: 8.KyoB kananpyenN1908204
+- bbox:
+  - - 198
+    - 560
+  - - 275
+    - 561
+  - - 275
+    - 576
+  - - 197
+    - 575
+  confidence: 0.7798
+  text: Ormerka 0
+- bbox:
+  - - 352
+    - 564
+  - - 376
+    - 564
+  - - 376
+    - 573
+  - - 352
+    - 573
+  confidence: 0.8401
+  text: reTa
+- bbox:
+  - - 201
+    - 581
+  - - 323
+    - 581
+  - - 323
+    - 595
+  - - 201
+    - 595
+  confidence: 0.6606
+  text: Aara Hrna c yer
+- bbox:
+  - - 709
+    - 577
+  - - 816
+    - 577
+  - - 816
+    - 600
+  - - 709
+    - 600
+  confidence: 0.9574
+  text: ABTOKPAH
+- bbox:
+  - - 839
+    - 579
+  - - 1061
+    - 579
+  - - 1061
+    - 596
+  - - 839
+    - 596
+  confidence: 0.7563
+  text: 1O.MouHocTb ABHrareAA.c.KBT
+- bbox:
+  - - 1099
+    - 577
+  - - 1172
+    - 577
+  - - 1172
+    - 592
+  - - 1099
+    - 592
+  confidence: 0.9313
+  text: 240176)
+- bbox:
+  - - 374
+    - 590
+  - - 471
+    - 596
+  - - 470
+    - 615
+  - - 373
+    - 609
+  confidence: 0.8207
+  text: 23.10.2A08nucb
+- bbox:
+  - - 221
+    - 600
+  - - 247
+    - 600
+  - - 247
+    - 609
+  - - 221
+    - 609
+  confidence: 0.8768
+  text: M.n
+- bbox:
+  - - 840
+    - 597
+  - - 1075
+    - 597
+  - - 1075
+    - 615
+  - - 840
+    - 615
+  confidence: 0.7481
+  text: 11.Paonn obem ABnrareaskyo.cM
+- bbox:
+  - - 1117
+    - 596
+  - - 1167
+    - 596
+  - - 1167
+    - 611
+  - - 1117
+    - 611
+  confidence: 0.9988
+  text: '10850'
+- bbox:
+  - - 835
+    - 613
+  - - 1032
+    - 613
+  - - 1032
+    - 632
+  - - 835
+    - 632
+  confidence: 0.7422
+  text: 12.Tn ABurareJH
+- bbox:
+  - - 336
+    - 635
+  - - 359
+    - 635
+  - - 359
+    - 652
+  - - 336
+    - 652
+  confidence: 0.9991
+  text: '37'
+- bbox:
+  - - 380
+    - 636
+  - - 409
+    - 636
+  - - 409
+    - 652
+  - - 380
+    - 652
+  confidence: 0.9892
+  text: KX
+- bbox:
+  - - 425
+    - 635
+  - - 499
+    - 635
+  - - 499
+    - 653
+  - - 425
+    - 653
+  confidence: 0.9971
+  text: '667059'
+- bbox:
+  - - 835
+    - 632
+  - - 1092
+    - 633
+  - - 1092
+    - 651
+  - - 835
+    - 649
+  confidence: 0.7623
+  text: 13.Pa3peueHnas MakcnaAbHas Maccakr
+- bbox:
+  - - 1152
+    - 631
+  - - 1201
+    - 631
+  - - 1201
+    - 649
+  - - 1152
+    - 649
+  confidence: 0.9987
+  text: '20520'
+- bbox:
+  - - 836
+    - 651
+  - - 1005
+    - 653
+  - - 1005
+    - 668
+  - - 836
+    - 665
+  confidence: 0.8164
+  text: 14.Macca de3 HarpyaknKr
+- bbox:
+  - - 21
+    - 669
+  - - 147
+    - 669
+  - - 147
+    - 687
+  - - 21
+    - 687
+  confidence: 0.7584
+  text: Ocoone oyMeTkn
+- bbox:
+  - - 196
+    - 669
+  - - 431
+    - 669
+  - - 431
+    - 687
+  - - 196
+    - 687
+  confidence: 0.6564
+  text: HanmeoBaHne .. coocrBeHa
+- bbox:
+  - - 835
+    - 668
+  - - 1247
+    - 667
+  - - 1247
+    - 685
+  - - 835
+    - 687
+  confidence: 0.8128
+  text: 15.Opramaaya-3roronreAb TC crpanaOAO ABTOkpaH
+- bbox:
+  - - 840
+    - 683
+  - - 1236
+    - 685
+  - - 1236
+    - 704
+  - - 840
+    - 701
+  confidence: 0.7235
+  text: POCC 153022rHeaHOBy.HeKCOa.61
+- bbox:
+  - - 856
+    - 723
+  - - 1208
+    - 721
+  - - 1208
+    - 739
+  - - 856
+    - 740
+  confidence: 0.7437
+  text: BEAaHO CePTKUMOHHE LHTTECT-CIM
+- bbox:
+  - - 197
+    - 744
+  - - 361
+    - 744
+  - - 361
+    - 757
+  - - 197
+    - 757
+  confidence: 0.7615
+  text: AaTa npoaazkn nepeAam
+- bbox:
+  - - 376
+    - 740
+  - - 513
+    - 737
+  - - 513
+    - 752
+  - - 376
+    - 755
+  confidence: 0.8468
+  text: '1010200'
+- bbox:
+  - - 195
+    - 760
+  - - 457
+    - 760
+  - - 457
+    - 777
+  - - 195
+    - 777
+  confidence: 0.658
+  text: AokyMeHr Ha paBO COOCrBeHnoCTH
+- bbox:
+  - - 836
+    - 760
+  - - 969
+    - 760
+  - - 969
+    - 777
+  - - 836
+    - 777
+  confidence: 0.8631
+  text: 17.CrpaHa Bo3a TC
+- bbox:
+  - - 833
+    - 776
+  - - 1043
+    - 777
+  - - 1043
+    - 796
+  - - 833
+    - 795
+  confidence: 0.7882
+  text: 18.CepusN yAocroBepehnaITA
+- bbox:
+  - - 195
+    - 800
+  - - 323
+    - 803
+  - - 322
+    - 817
+  - - 195
+    - 815
+  confidence: 0.7283
+  text: Iodnucb npeneneeo
+- bbox:
+  - - 411
+    - 801
+  - - 541
+    - 803
+  - - 541
+    - 817
+  - - 411
+    - 816
+  confidence: 0.7587
+  text: Hodnucs nacmoaueeg
+- bbox:
+  - - 835
+    - 795
+  - - 1019
+    - 797
+  - - 1018
+    - 815
+  - - 835
+    - 812
+  confidence: 0.7092
+  text: 19.Taoee orpanenna
+- bbox:
+  - - 196
+    - 816
+  - - 301
+    - 816
+  - - 301
+    - 829
+  - - 196
+    - 829
+  confidence: 0.7901
+  text: cobcmeennukaE
+- bbox:
+  - - 411
+    - 815
+  - - 497
+    - 815
+  - - 497
+    - 828
+  - - 411
+    - 828
+  confidence: 0.8557
+  text: co6cmeennuka
+- bbox:
+  - - 215
+    - 835
+  - - 257
+    - 835
+  - - 257
+    - 848
+  - - 215
+    - 848
+  confidence: 0.8736
+  text: M.
+- bbox:
+  - - 435
+    - 835
+  - - 475
+    - 835
+  - - 475
+    - 848
+  - - 435
+    - 848
+  confidence: 0.9152
+  text: M.
+- bbox:
+  - - 195
+    - 868
+  - - 413
+    - 868
+  - - 413
+    - 887
+  - - 195
+    - 887
+  confidence: 0.7481
+  text: CBuAeTgabcrBo o pernerpaynn ce
+- bbox:
+  - - 499
+    - 872
+  - - 547
+    - 872
+  - - 547
+    - 887
+  - - 499
+    - 887
+  confidence: 0.9769
+  text: '752388'
+- bbox:
+  - - 1008
+    - 872
+  - - 1109
+    - 869
+  - - 1109
+    - 883
+  - - 1008
+    - 885
+  confidence: 0.7572
+  text: COOCTBeHHKa T
+- bbox:
+  - - 321
+    - 889
+  - - 360
+    - 889
+  - - 360
+    - 903
+  - - 321
+    - 903
+  confidence: 0.8623
+  text: cepn
+- bbox:
+  - - 391
+    - 891
+  - - 471
+    - 891
+  - - 471
+    - 905
+  - - 391
+    - 905
+  confidence: 0.984
+  text: M987EA174
+- bbox:
+  - - 472
+    - 889
+  - - 499
+    - 889
+  - - 499
+    - 900
+  - - 472
+    - 900
+  confidence: 0.8788
+  text: 'No'
+- bbox:
+  - - 748
+    - 883
+  - - 787
+    - 883
+  - - 787
+    - 896
+  - - 748
+    - 896
+  confidence: 0.5806
+  text: oHOpA
+- bbox:
+  - - 195
+    - 904
+  - - 336
+    - 904
+  - - 336
+    - 921
+  - - 195
+    - 921
+  confidence: 0.8029
+  text: Perncrpaynonon anak
+- bbox:
+  - - 368
+    - 905
+  - - 442
+    - 908
+  - - 441
+    - 926
+  - - 368
+    - 922
+  confidence: 0.9184
+  text: 23.10.2008
+- bbox:
+  - - 921
+    - 897
+  - - 1241
+    - 897
+  - - 1241
+    - 916
+  - - 921
+    - 916
+  confidence: 0.7346
+  text: r.Mocka y.baTnckas 9 oqc
+- bbox:
+  - - 193
+    - 921
+  - - 417
+    - 924
+  - - 417
+    - 941
+  - - 193
+    - 939
+  confidence: 0.7557
+  text: Aara pencrpaEnCK
+- bbox:
+  - - 193
+    - 940
+  - - 307
+    - 940
+  - - 307
+    - 959
+  - - 193
+    - 959
+  confidence: 0.6678
+  text: BEAano MGAA
+- bbox:
+  - - 849
+    - 941
+  - - 1143
+    - 941
+  - - 1143
+    - 959
+  - - 849
+    - 959
+  confidence: 0.7185
+  text: HanmeHoBane opraHnaaym BElAaBuen nacnopr
+- bbox:
+  - - 713
+    - 964
+  - - 812
+    - 964
+  - - 812
+    - 987
+  - - 713
+    - 987
+  confidence: 0.8537
+  text: ABTOKPAP
+- bbox:
+  - - 868
+    - 956
+  - - 901
+    - 956
+  - - 901
+    - 968
+  - - 868
+    - 968
+  confidence: 0.9025
+  text: OAO
+- bbox:
+  - - 921
+    - 956
+  - - 1013
+    - 956
+  - - 1013
+    - 969
+  - - 921
+    - 969
+  confidence: 0.7954
+  text: ABTOKPAH
+- bbox:
+  - - 413
+    - 979
+  - - 468
+    - 979
+  - - 468
+    - 993
+  - - 413
+    - 993
+  confidence: 0.8997
+  text: Hodnuco
+- bbox:
+  - - 835
+    - 977
+  - - 895
+    - 980
+  - - 894
+    - 995
+  - - 834
+    - 992
+  confidence: 0.9106
+  text: 23.AApec
+- bbox:
+  - - 921
+    - 971
+  - - 1081
+    - 971
+  - - 1081
+    - 989
+  - - 921
+    - 989
+  confidence: 0.8729
+  text: Poccna153022
+- bbox:
+  - - 1080
+    - 971
+  - - 1193
+    - 972
+  - - 1193
+    - 991
+  - - 1080
+    - 989
+  confidence: 0.6705
+  text: T.MBAHOEO,
+- bbox:
+  - - 866
+    - 989
+  - - 1015
+    - 992
+  - - 1014
+    - 1009
+  - - 865
+    - 1007
+  confidence: 0.8996
+  text: y.Hekpacoea
+- bbox:
+  - - 1019
+    - 992
+  - - 1064
+    - 992
+  - - 1064
+    - 1007
+  - - 1019
+    - 1007
+  confidence: 0.9721
+  text: '.61'
+- bbox:
+  - - 192
+    - 1011
+  - - 377
+    - 1013
+  - - 377
+    - 1031
+  - - 192
+    - 1028
+  confidence: 0.6993
+  text: OrmeTka o cHaTn c yuera
+- bbox:
+  - - 832
+    - 1012
+  - - 997
+    - 1012
+  - - 997
+    - 1029
+  - - 832
+    - 1029
+  confidence: 0.8895
+  text: 24.Aara Ba nacnopra
+- bbox:
+  - - 1031
+    - 1008
+  - - 1141
+    - 1008
+  - - 1141
+    - 1025
+  - - 1031
+    - 1025
+  confidence: 0.9915
+  text: 21.12.2004
+- bbox:
+  - - 193
+    - 1032
+  - - 325
+    - 1032
+  - - 325
+    - 1049
+  - - 193
+    - 1049
+  confidence: 0.8055
+  text: Aara charna c yyera
+- bbox:
+  - - 215
+    - 1052
+  - - 251
+    - 1052
+  - - 251
+    - 1065
+  - - 215
+    - 1065
+  confidence: 0.8343
+  text: M.II.
+- bbox:
+  - - 413
+    - 1051
+  - - 465
+    - 1051
+  - - 465
+    - 1065
+  - - 413
+    - 1065
+  confidence: 0.7965
+  text: Nodnuco
+- bbox:
+  - - 892
+    - 1053
+  - - 923
+    - 1053
+  - - 923
+    - 1064
+  - - 892
+    - 1064
+  confidence: 0.8745
+  text: M.II.
+- bbox:
+  - - 1059
+    - 1051
+  - - 1109
+    - 1051
+  - - 1109
+    - 1065
+  - - 1059
+    - 1065
+  confidence: 0.8707
+  text: Hodnuco
+- bbox:
+  - - 20
+    - 1076
+  - - 168
+    - 1076
+  - - 168
+    - 1089
+  - - 20
+    - 1089
+  confidence: 0.9691
+  text: '2003177300'

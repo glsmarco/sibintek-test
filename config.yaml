@@ -1,0 +1,6 @@
+raw_images_dir: "dataset/VP_raw_internet_samples"
+standartized_images_dir: "dataset/VP_standartized_samples" 
+target_size: 1280 # any sample will be made a square of this size while preserving aspect ratio. Images with width < target_size are omitted as text becomes highly unreadable
+ocr_languages:
+  - "en"
+  - "cyrillic"
